@@ -346,5 +346,6 @@ void do_tty_interrupt(int tty)
 }
 
 void chr_dev_init(void)
+
 {
 }
